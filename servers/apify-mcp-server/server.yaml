@@ -19,7 +19,7 @@ about:
 source:
   project: https://github.com/apify/actors-mcp-server
   branch: master
-  commit: 8e36bb38ea3967db4d97194e2068133a95d3ca71
+  commit: 2b33c07a5e32b1cd76b066aeae126dae6105046d
 config:
   description: Configure the Apify MCP Server
   secrets:
